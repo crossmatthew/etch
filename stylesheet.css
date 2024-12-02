@@ -1,0 +1,6 @@
+#container {
+    background-color: pink;
+    padding: 12px;
+    border: solid;
+    display: flex;
+}
